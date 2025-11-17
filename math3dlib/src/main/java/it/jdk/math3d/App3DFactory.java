@@ -2,6 +2,8 @@ package it.jdk.math3d;
 
 /**
  * Classe per la costruzione di una scena 3D
+ * @author Alessandro Zoia
+ * @version 1.0.0
  */
 public class App3DFactory {
 

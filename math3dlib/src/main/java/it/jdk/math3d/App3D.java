@@ -4,7 +4,7 @@ package it.jdk.math3d;
  * Contratto per la creazione di una scena
  * di un'applicazione 3D
  * 
- * @author JDK
+ * @author Alessandro Zoia
  * @version 1.0.0
  */
 public interface App3D {

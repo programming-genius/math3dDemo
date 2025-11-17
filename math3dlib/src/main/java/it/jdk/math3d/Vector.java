@@ -181,7 +181,7 @@ class Vector3 {
 	 * Normalize the current vector.
 	 */
 	void normalize() {
-		double length = length();
+		float length = length();
 		x /= length;
 		y /= length;
 		z /= length;

@@ -2,8 +2,8 @@ package it.jdk.math3d;
 
 /**
  * Factory per la creazione di oggetti 3D
- * 
- * @author JDK
+ *
+ * @author Alessandro Zoia
  * @version 1.0.0
  */
 public class Object3DFactory {

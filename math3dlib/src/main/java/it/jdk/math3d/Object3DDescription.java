@@ -3,8 +3,8 @@ package it.jdk.math3d;
 /**
  * Classe per rappresentare una richiesta
  * di un particolare oggetto 3D.
- * 
- * @author JDK
+ *
+ * @author Alessandro Zoia
  * @version 1.0.0
  */
 public class Object3DDescription {

@@ -7,8 +7,8 @@ import static java.util.UUID.randomUUID;
 /**
  * Interfaccia per il contratto che rappresenta
  * un generico oggetto 3D in una scena.
- * 
- * @author JDK
+ *
+ * @author Alessandro Zoia
  * @version 1.0.0
  */
 public interface Object3D {
